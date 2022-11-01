@@ -1,7 +1,0 @@
-# github.com/ohler55/ojg v1.14.5
-## explicit; go 1.19
-github.com/ohler55/ojg
-github.com/ohler55/ojg/alt
-github.com/ohler55/ojg/gen
-github.com/ohler55/ojg/jp
-github.com/ohler55/ojg/oj
